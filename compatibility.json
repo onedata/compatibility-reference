@@ -1,5 +1,5 @@
 {
-    "revision": 2020072400,
+    "revision": 2020081900,
     "compatibility": {
         "onezone:oneprovider": {
             "18.02.0-rc13": [
@@ -230,7 +230,7 @@
                 "6df97ad9febbb7c524247103c2f00b84902fc07bf981de3c8a9eca7eb566ba7b"
             ],
             "20.02.1": [
-                "1c05ddac4e2fec1e80ca3fe1b3613bd4a865864fc800170c9c70f4d3e54821f8"
+                "55108a6b9d77db7b87d40c4aaa81ea54ba89eb06ec0f8ccb929f813a07bbf941"
             ]
         },
         "onepanel": {
@@ -256,7 +256,7 @@
                 "f05dee37124fb4acd1d0fd82300a32199fb49f16d42100c64963f2517c0b4fda"
             ],
             "20.02.1": [
-                "c3c6a4b8545a7ff33e00a3b6e9700b72ab5048597d4c92241afd17f1076ba9ef"
+                "2ab8b12d86c71e038c1f9b93a161e3b2ba6d05a0b4f0630cd02c99cbb777a632"
             ]
         },
         "harvester": {
@@ -306,6 +306,9 @@
                 "ecrin": [
                     "aaa503646813ba00a9995b1c928f66200e87ffa24a65482c1b2d22d2cf1f30ad",
                     "307013f4c48637c9c3b6d98acf7914686b0cb8f715ca16546220be586ad43edf"
+                ],
+                "default": [
+                    "1a0d9f854811e6cb9b73b587e30de7fc89676d8879477c88b95a5b20419b1261"
                 ]
             }
         }
