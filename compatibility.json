@@ -1,5 +1,5 @@
 {
-    "revision": 2020082800,
+    "revision": 2020083100,
     "compatibility": {
         "onezone:oneprovider": {
             "18.02.0-rc13": [
@@ -224,7 +224,7 @@
                 "6df97ad9febbb7c524247103c2f00b84902fc07bf981de3c8a9eca7eb566ba7b"
             ],
             "20.02.1": [
-                "813922a60bb8ea10e430209c2231a64e94dd0ef932f2a52023262b0759e07817"
+                "44fd394807d2d85cfd0a9fb7b9ff4140e384d36823c55fe780966715f1712977"
             ]
         },
         "onepanel": {
