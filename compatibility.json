@@ -1,5 +1,5 @@
 {
-    "todo": "temporary solution for the sake of the future software line - 21.02.0-alpha1 version is added",
+    "todo": "temporary solution for the sake of the future software line - 22.02.0-alpha1 version is added",
     "revision": 2022123199,
     "compatibility": {
         "onezone:oneprovider": {
@@ -182,14 +182,14 @@
                 "20.02.5",
                 "20.02.6"
             ],
-            "21.02.0-alpha1": [
+            "22.02.0-alpha1": [
                 "20.02.1",
                 "20.02.2",
                 "20.02.3",
                 "20.02.4",
                 "20.02.5",
                 "20.02.6",
-                "21.02.0-alpha1"
+                "22.02.0-alpha1"
             ]
         },
         "oneprovider:oneprovider": {
@@ -287,8 +287,8 @@
                 "20.02.5",
                 "20.02.6"
             ],
-            "21.02.0-alpha1": [
-                "21.02.0-alpha1"
+            "22.02.0-alpha1": [
+                "22.02.0-alpha1"
             ]
         },
         "oneprovider:oneclient": {
@@ -436,14 +436,14 @@
                 "20.02.5",
                 "20.02.6"
             ],
-            "21.02.0-alpha1": [
+            "22.02.0-alpha1": [
                 "20.02.1",
                 "20.02.2",
                 "20.02.3",
                 "20.02.4",
                 "20.02.5",
                 "20.02.6",
-                "21.02.0-alpha1"
+                "22.02.0-alpha1"
             ]
         }
     },
