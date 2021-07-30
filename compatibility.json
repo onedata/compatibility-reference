@@ -1,5 +1,5 @@
 {
-    "revision": 2021072900,
+    "revision": 2021073000,
     "compatibility": {
         "onezone:oneprovider": {
             "18.02.0-rc13": [
@@ -640,7 +640,8 @@
                 "21.02.0-alpha16",
                 "21.02.0-alpha17",
                 "21.02.0-alpha18",
-                "21.02.0-alpha19"
+                "21.02.0-alpha19",
+                "21.02.0-alpha20"
             ],
             "21.02.0-alpha20": [
                 "20.02.1",
