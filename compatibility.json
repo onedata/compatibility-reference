@@ -1,5 +1,5 @@
 {
-    "revision": 2022101300,
+    "revision": 2022101800,
     "compatibility": {
         "onezone:oneprovider": {
             "18.02.0-rc13": [
@@ -3047,7 +3047,7 @@
                 "357e89aa66703ad6b8f8750f0b4f5b135c50f02ef77e4bedad50adf52b7f8c9a"
             ],
             "20.02.19": [
-                "357e89aa66703ad6b8f8750f0b4f5b135c50f02ef77e4bedad50adf52b7f8c9a"
+                "df790077223027ac64b86c990d3c2c0d4e1cb407b69ba0f77cd195bb007712d3"
             ],
             "21.02.0-alpha2": [
                 "50f27cdae6848fc45a59a37cbb53e96806812880f22d44257ed8b1b89767f2aa"
