@@ -1,5 +1,5 @@
 {
-    "revision": 2025121600,
+    "revision": 2026011900,
     "compatibility": {
         "onezone:oneprovider": {
             "18.02.0-rc13": [
@@ -1779,7 +1779,7 @@
                 "20dbfb076b57eb8a4285b5f93556849c4f19e405f6229d4f4f4f01bde41e1bdc"
             ],
             "25.0": [
-                "ef9a6af0d778d6c1d7ab7731aa353ae4b147330126fe941385688af9663b0a24"
+                "48b6cd7600d8e085d4068acc727b68d2b72ebf46e1bbdca2c0d065a764979544"
             ]
         },
         "onepanel": {
@@ -1892,7 +1892,7 @@
                 "b2464072a1066b01d9cd0ee0911b0d0a0a37568b516ac93a552c5d4b498fb6d1"
             ],
             "25.0": [
-                "12404b9da684560f3c258a665c699984b9ecdf5f9ffa59e66f2cf922302154b4"
+                "9b5267cd07161d5671c6d2ff1a54d353b21cff35162736a21bf06d973bb94a1e"
             ]
         },
         "harvester": {
