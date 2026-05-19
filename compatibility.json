@@ -1,5 +1,5 @@
 {
-    "revision": 2026042600,
+    "revision": 2026051900,
     "compatibility": {
         "onezone:oneprovider": {
             "18.02.0-rc13": [
@@ -1963,7 +1963,7 @@
                 "9b5267cd07161d5671c6d2ff1a54d353b21cff35162736a21bf06d973bb94a1e"
             ],
             "25.1": [
-                "3a7e677102ed9d1bb6ffcc234c0d271a129aed6c689353d73bae2829ec401ca8"
+                "566b2a6f78306b98f4c74a00a4372f21c3d65124cc65df7586d8e2fcd2cde496"
             ]
         },
         "harvester": {
