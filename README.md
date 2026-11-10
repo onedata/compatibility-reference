@@ -1,5 +1,3 @@
-# Onedata products
+# Compatibility reference
 
-Information about Onedata products - currently includes only the compatibility 
-reference, to be extended with other information such as stable / edge channels,
-release notes, changelog etc.
+This repository holds the `comptibility.json` file which is used by Onedata components to verify compatibility with each other. It is also rendered in the form of compatibility tables on Onedata homepage (onedata.org).
